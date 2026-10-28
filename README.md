@@ -1,1 +1,1 @@
-# This is a Stationary_store anyone purchase goes to this website
+# This is a Stationary_store anyone can purchase goes to this website
